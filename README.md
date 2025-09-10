@@ -1,3 +1,4 @@
 # localrepo
-this is my first git repo</b>
+this is my first git repo
+<br>
 Author - Shridhar
