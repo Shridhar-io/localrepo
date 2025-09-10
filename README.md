@@ -1,3 +1,3 @@
 # localrepo
-this is my first git repo
-Athor - Shridhar
+this is my first git repo</b>
+Author - Shridhar
